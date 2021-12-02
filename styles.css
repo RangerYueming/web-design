@@ -1,0 +1,15 @@
+.list{
+	color: red;
+	font-family: Tiomes New Roman;
+	font-size: default;
+}
+.hideList{
+	display: none;
+}
+.showList{
+	display: visible;
+}
+img{
+	width: 150px;
+	height: 150px;
+}
